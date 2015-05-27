@@ -15,7 +15,7 @@ facile de le réaliser ! Et ne rigolez pas, trop de gens se lancent dans un scri
 savoir ce qu'ils veulent faire, ce qui les conduit bien souvent dans un mur.
 ````
 
-# Instruction d'utiliastion
+# Instruction d'utilisation
 ````
 1 - Procéder par la création d'une base de donnée : minichat
 2 - Importer le fichier minichat.sql 
